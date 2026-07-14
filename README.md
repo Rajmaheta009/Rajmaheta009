@@ -14,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Rajmaheta009&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<a href="www.linkedin.com/in/Rajmaheta009">
+<a href="https://www.linkedin.com/in/Rajmaheta009">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -189,6 +189,7 @@ Machine Learning             ████████████████ 82
 
 PostgreSQL                   ███████████████ 80%
 ---
+```
 
 # ⚙️ Development Environment
 
@@ -352,3 +353,4 @@ Version Control:
 ☁ Cloud Projects
 
 📚 Open Source Contributions
+```
